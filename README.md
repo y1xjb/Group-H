@@ -6,7 +6,7 @@ Shared workspace for our MTH6134 Statistical Modelling II group project. All cod
 
 | Name | GitHub username |
 |------|-----------------|
-|      |                 |
+|   Jabir   |        y1xjb         |
 |      |                 |
 |      |                 |
 |      |                 |

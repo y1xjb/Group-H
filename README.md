@@ -8,8 +8,9 @@ Shared workspace for our MTH6134 Statistical Modelling II group project. All cod
 |------|-----------------|
 |   Jabir   |        y1xjb         |
 |      |                 |
+|   Alex   |         made-in-july        |
 |      |                 |
-|      |                 |
+|Aaron|solio6|
 
 ## Folder structure
 

@@ -7,9 +7,9 @@ Shared workspace for our MTH6134 Statistical Modelling II group project. All cod
 | Name | GitHub username |
 |------|-----------------|
 |   Jabir   |        y1xjb         |
-|      |                 |
-|   James   |         made-in-july        |
-|      |                 |
+|   Shadman   |        kshadman247-cpu         |
+|   Alex   |         made-in-july        |
+|   Mohamed   |           MoNurein17      |
 |Aaron|solio6|
 
 ## Folder structure
